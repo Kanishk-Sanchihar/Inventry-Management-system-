@@ -1,0 +1,1 @@
+# Inventry-Management-system- This project is about the Management of Inventry  in Supermarkets This is Purely Created By ASP.NET   and MYSQL Data base is Integrated to Save the data.CSS is also used to make frontend more attractive
